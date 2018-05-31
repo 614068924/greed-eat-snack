@@ -1,0 +1,2 @@
+<canvas canvas-id="snakeCanvas" style="width:320px;height:500px;background-color:#ccc;" bindtouchstart="canvasStart" bindtouchmove="canvasMove"  bindtouchend="canvasEnd"></canvas>
+
